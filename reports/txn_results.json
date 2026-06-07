@@ -1,0 +1,33 @@
+{
+  "dataset": "Transactions",
+  "models": [
+    {
+      "model": "LogisticRegression",
+      "roc_auc": 0.9393,
+      "f1": 0.101,
+      "precision": 0.0538,
+      "recall": 0.8333
+    },
+    {
+      "model": "RandomForest",
+      "roc_auc": 0.9113,
+      "f1": 0.9091,
+      "precision": 1.0,
+      "recall": 0.8333
+    },
+    {
+      "model": "XGBoost",
+      "roc_auc": 0.8987,
+      "f1": 0.8,
+      "precision": 0.7692,
+      "recall": 0.8333
+    }
+  ],
+  "best": {
+    "model": "RandomForest",
+    "roc_auc": 0.9113,
+    "f1": 0.9091,
+    "precision": 1.0,
+    "recall": 0.8333
+  }
+}

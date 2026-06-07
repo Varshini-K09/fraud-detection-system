@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.db
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+.ipynb_checkpoints/
+data/processed/
+data/interim/
+reports/*.png

@@ -1,0 +1,16 @@
+=== Fraud Detection Model Results ===
+
+Dataset  : creditcard
+Best Model: RandomForest
+ROC-AUC  : 0.9776
+F1-Score : 0.7629
+Precision: 0.7475
+Recall   : 0.7789
+
+Dataset  : transactions
+Best Model: RandomForest
+ROC-AUC  : 0.9113
+F1-Score : 0.9091
+Precision: 1.0
+Recall   : 0.8333
+
