@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Credit Card Fraud Detection System
 
 End-to-end ML project for detecting fraudulent financial transactions.
@@ -121,3 +122,6 @@ python tests/test_api.py
 Python · Pandas · NumPy · Scikit-learn · XGBoost · imbalanced-learn  
 FastAPI · SQLAlchemy · SQLite/PostgreSQL · Joblib  
 HTML · CSS · JavaScript (Vanilla)
+=======
+# fraud-detection-system
+>>>>>>> d157654baaf0e6947c06438925b39694eeb03fd6
